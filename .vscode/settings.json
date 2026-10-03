@@ -1,6 +1,28 @@
+id:"mpm_01M40P2YYTGJQS47Z7939PXR9X..."
+name:"Aney upi"
+image_url:"https://cdn.commert.com/59508-..."
+instructions:"wrowiself@ybl"
+is_active:true
+requires_proof:false
+metadata:null
+created_at:"2026-10-03T10:48:48.346Z"
+updated_at:"2026-10-03T10:48:48.346Z"
+deleted_at:null
+sales_channels
+:
+[
+1 item
+0
+:
 {
-  "editor.codeActionsOnSave": {
-    "quickFix.biome": "explicit",
-    "source.organizeImports.biome": "explicit"
-  }
+8 items
+id:"sc_01M40MCF9MJ3DRDBEY5RFPY2J9"
+name:"Default"
+description:"GROW_I_SELF default sales chan..."
+is_disabled:false
+metadata:null
+created_at:"2026-10-03T10:19:02.836Z"
+updated_at:"2026-10-03T10:19:02.836Z"
+deleted_at:null
 }
+]
